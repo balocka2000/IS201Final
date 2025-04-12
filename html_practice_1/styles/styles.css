@@ -1,0 +1,43 @@
+/*  this is how you comment in CSS  */
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(255, 136, 0);
+    background-color: rgb(119, 152, 249);
+}
+
+p {
+    color: rgb(222, 255, 7);
+}
+
+a:hover {
+    text-decoration: line-through;
+    color: rgb(68, 254, 0);
+}
+
+a:visited {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 0, 0);
+}
+
+
+li {
+    color: black;
+    font-weight: bold;
+}
+
+.heading_text {
+    font-weight: bold;
+    color: rgb(96, 146, 47);
+    text-decoration: underline;
+}
+
+.list_text {
+    font-style: italic;
+    color: rgb(255, 0, 0);
+}
+
+.small_font_size_strike_through {
+    font-size: small;
+    text-decoration: line-through;
+}
