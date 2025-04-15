@@ -3,5 +3,9 @@
 }
 
 .my_special_color {
-    color: rgb(100, 237, 159) !important;
+    color: rgb(8, 80, 180) !important;
+}
+
+.my_background_color {
+    background-color: rgb(8, 80, 180) !important;
 }
